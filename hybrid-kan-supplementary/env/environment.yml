@@ -1,0 +1,21 @@
+name: solar_hybrid_env
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cpuonly  # remove if using GPU
+  - numpy=1.26
+  - pandas
+  - scikit-learn=1.4
+  - matplotlib
+  - scipy
+  - ipykernel
+  - jupyterlab
+  - pip
+  - pip:
+      - shap
+      - lightgbm

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "A Climate-Aware Hybrid Kolmogorov–Arnold and Neural Network Approach for Accurate and Interpretable Solar Irradiance Prediction (Supplementary Materials)"
+authors:
+  - family-names: "Alameen"
+    given-names: "Abdalla"
+  - family-names: "Aldossary"
+    given-names: "Sultan Mesfer"
+date-released: "2025-11-02"
+version: "1.0.0"
+repository-code: "https://github.com/<your-org-or-user>/hybrid-kan-solar"
+license: "MIT"
